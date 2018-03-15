@@ -23,8 +23,6 @@ namespace Elite_Missions.Model
             }
         }
 
-        public FDEventFileheader Fileheader => throw new NotImplementedException();
-
         public String GetFolderName()
         {
             String folder = Path.Combine(userFolder, defaultLocation);
@@ -41,6 +39,11 @@ namespace Elite_Missions.Model
             }
 
             return files;
+        }
+
+        public void ParseLogfile()
+        {
+            throw new NotImplementedException();
         }
     }
 }

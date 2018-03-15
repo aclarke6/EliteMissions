@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elite_Missions.Model.ModelT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elite_Missions.Model", "Elite Missions\Model\Elite_Missions.Model\Elite_Missions.Model.csproj", "{2648B7EF-5569-475B-8EF1-50AA77FD9923}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C18D22F6-8639-4286-B886-79B234ADBF02}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Saved Games\Frontier Developments\Elite Dangerous\Journal.180315142940.01.log = ..\..\..\Saved Games\Frontier Developments\Elite Dangerous\Journal.180315142940.01.log
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

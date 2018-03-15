@@ -120,9 +120,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="Model\Elite_Missions.Model\Elite_Missions.Model.csproj">
       <Project>{2648b7ef-5569-475b-8ef1-50aa77fd9923}</Project>

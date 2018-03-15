@@ -11,6 +11,6 @@ namespace Elite_Missions.Model
 
         String LogFile { get; }
 
-        FDEventFileheader Fileheader { get; }
+        void ParseLogfile();
     }
 }
